@@ -1,6 +1,5 @@
 import { first } from 'lodash'
 import { useState } from 'react'
-import ShowMoreLess from 'show-more-less'
 import Link from 'next/link'
 
 function Item(props){
