@@ -1,0 +1,49 @@
+.fixed {
+    position: fixed;
+  }
+  
+  .bottom-5 {
+    bottom: 1.25rem; /* 20px */
+  }
+  
+  .right-5 {
+    right: 1.25rem; /* 20px */
+  }
+  
+  .bg-gray-800 {
+    background-color: #1a202c;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .rounded-full {
+    border-radius: 9999px;
+  }
+  
+  .w-16 {
+    width: 4rem; /* 64px */
+  }
+  
+  .h-16 {
+    height: 4rem; /* 64px */
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .chevron-right {
+    width: 1.5rem; /* 24px */
+    height: 1.5rem; /* 24px */
+  }
+  
