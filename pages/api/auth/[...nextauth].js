@@ -33,11 +33,11 @@ export default NextAuth({
     ],
     secret: process.env.NEXTAUTH_SECRET,
     jwt: {
-        maxAge:20,
+        maxAge:3600,
         secret: process.env.NEXTAUTH_SECRET
     },
     session: {
-        maxAge: 20,
+        maxAge: 3600,
         strategy: "jwt",
     },
     pages: {
